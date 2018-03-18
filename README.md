@@ -2,14 +2,11 @@
 
 ## Synopsis
 
-In this project, students will extend the Sudoku-solving agent developed in the classroom lectures to solve _diagonal_ Sudoku puzzles. A diagonal Sudoku puzzle is identical to traditional Sudoku puzzles with the added constraint that the boxes on the two main diagonals of the board must also contain the digits 1-9 in each cell (just like the rows, columns, and 3x3 blocks).
+In this project, I implemented Sudoku-solving agent lectured in the Udacity AI nanodegree program. This Sudoku-solving agent includes the diagonal-Sudoku solving technique and Naked twin technique, which are helper algorithms to resolve the Sudoku problem more efficiently.   
 
 ## Instructions
 
-Follow the instructions in the classroom lesson to install and configure the AIND [Anaconda](https://www.continuum.io/downloads) environment. That environment includes several important packages that are used for the project. 
-
-**YOU ONLY NEED TO WRITE CODE IN `solution.py`.**
-
+Please follow the instructions in the Udacity classroom lesson to install and configure the AIND [Anaconda](https://www.continuum.io/downloads) environment.
 
 ## Quickstart Guide
 
