@@ -6,7 +6,9 @@ In this project, I implemented Sudoku-solving agent lectured in the Udacity AI n
 
 ## Instructions
 
-Please follow the instructions in the Udacity classroom lesson to install and configure the AIND [Anaconda](https://www.continuum.io/downloads) environment.
+You need to configure the AIND environment
+ - Setup the [Anaconda](https://www.continuum.io/downloads) environment.
+ - 
 
 ## Quickstart Guide
 
