@@ -8,7 +8,7 @@ In this project, I implemented Sudoku-solving agent lectured in the Udacity AI n
 
 You need to configure the AIND environment
  - Setup the [Anaconda](https://www.continuum.io/downloads) environment.
- - Setup the AIND environment : Download the "aind-universal.yml" file in this repository. Open a terminal and run "conda env create -f aind-universal.yml" to create the environment.
+ - Setup the AIND environment : Download the `aind-universal.yml` file in this repository. Open a terminal and run `conda env create -f aind-universal.yml` to create the environment.
 
 ## Quickstart Guide
 
