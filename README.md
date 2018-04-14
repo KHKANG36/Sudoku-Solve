@@ -28,7 +28,7 @@ You need to configure the AIND environment
 
 In this project, based on the sudoku solving algorithm, I implemented two extended sudoku solving algorithm. The first extension is an implementation of the naked twins technique. The second is a modification of the algorithm to solve a diagonal sudoku.
 1) Naked Twins Technique
-![Test image](https://github.com/KHKANG36/Sudoku-Solving-Agent/tree/master/images/naked-twins1.png)
+![Test image](https://github.com/KHKANG36/Sudoku-Solving-Agent/blob/master/images/naked-twins1.png)
 In the above image, 'F3' and 'I3' boxes are both belong to the same column and both permit the values of 2 and 3. Now, we don't know which one has a 2 and which one has a 3, but we know one thing for sure — the values 2 and 3 are locked in those two boxes, so no other box in their same unit (the third column) can contain the values 2 or 3.
 Thus, we go over all the boxes in their same unit, and remove the values 2 and 3 from their possible values as below image
 ![Test image](https://github.com/KHKANG36/Sudoku-Solving-Agent/tree/master/images/naked-twins2.png)
